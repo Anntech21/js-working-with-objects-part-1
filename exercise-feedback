@@ -1,0 +1,11 @@
+Great work!!
+
+Exercise 1 - Creating Objects
+For the last object, how would you create an object that has an array as the value of one of it's keys? Take a look at the Ingredients key in the object.
+
+Exercise 3 
+You correctly added new key/value pairs to the object, but the keys do not have the correct values. Please take another look at the values for the objects.
+On line 111, take a look at your object syntax, you seem to have an extra comma. Also, it is good to practice spacing out your objects so that they are easy for developers to read.
+
+Exercise 4
+Please complete the final exercise.
